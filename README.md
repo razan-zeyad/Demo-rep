@@ -36,6 +36,5 @@ evaluated solely on hazy ones.
 The project's impact is centered on leveraging a pre-trained model and applying transfer 
 learning to adapt its capabilities to classify street density under challenging weather 
 conditions. This advancement enables better understanding and management of traffic 
-dynamics, leading to improved safety, efficiency, and overall urban mobility.git add README.md
-
+dynamics, leading to improved safety, efficiency, and overall urban mobility.
 
